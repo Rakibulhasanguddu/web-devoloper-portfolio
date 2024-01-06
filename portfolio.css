@@ -100,3 +100,26 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px
 }
+main{
+max-width: 1140px;
+max-height: 550px;
+margin: 0px auto;
+}
+.about-info-main{
+    display: flex;
+    justify-content: space-around;
+}
+.info- title{
+    text-align: center;
+}
+.info-p{
+    color:  #474747;
+f
+font-size: 20px;
+
+font-weight: 700;
+line-height: 30px;
+}
+.info-dis{
+    text-align: center;
+}
