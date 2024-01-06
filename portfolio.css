@@ -76,15 +76,14 @@ header{
 }
 /* main er style */
 
-.section{
-    padding: 200px;
-   
+.sectiont{
+padding: 200px;
 border-radius: 10px;
 background: #FFF8F3;
 margin: 130px 0px;
 }
 .section-1{
-    color:  #181818;
+color:  #181818;
 text-align: center;
 font-family: Open Sans;
 font-size: 35px;
@@ -109,17 +108,13 @@ margin: 0px auto;
     display: flex;
     justify-content: space-around;
 }
-.info- title{
+.info-title{
     text-align: center;
 }
 .info-p{
-    color:  #474747;
-f
-font-size: 20px;
-
-font-weight: 700;
-line-height: 30px;
-}
+    font-weight: 700;
+    line-height: 30px;
+    }
 .info-dis{
     text-align: center;
 }
@@ -184,3 +179,6 @@ font-weight: 400;
     text-align: center;
     padding: 80px;
 }
+
+
+
