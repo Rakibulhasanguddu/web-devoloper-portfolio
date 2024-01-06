@@ -135,7 +135,28 @@ font-size: 18px;
 font-weight: 400;
 }
 .what-ido{
-    max-width: 900px;
+    max-width: 1000px;
     max-height:90px ;
-    margin: 0px auto;
+    margin: 20px auto;
+}
+.skill-container{
+    display: flex;
+    gap: 20px;
+ 
+}
+.skill{
+    margin-right: 10px;
+    border-radius: 5px;
+background: #f8dfdf;
+padding: 15px;
+
+}
+.skill-title{
+    padding: 5px;
+}
+.skill-dis{
+    width: 180px;
+    height: 200px;
+    padding: 5px;
+    margin-left: 15px;
 }
