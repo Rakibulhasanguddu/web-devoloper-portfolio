@@ -134,3 +134,8 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 }
+.what-ido{
+    max-width: 900px;
+    max-height:90px ;
+    margin: 0px auto;
+}
